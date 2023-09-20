@@ -14,3 +14,11 @@ Simple web app to control vice city code from mobile or other device
     ```sh
     python app.py
     ```
+* Scan QR Code from terminal on other device and click button when gaming.
+
+### Packages
+* flask
+* pyautogui
+* python-dotenv
+* ngrok
+* pyqrcode
